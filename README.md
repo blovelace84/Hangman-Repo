@@ -14,13 +14,8 @@ A simple command-line Hangman game implemented in Python. The user tries to gues
 1. Clone this repository:
     ```bash
     git clone https://github.com/blovelace84/hangman-python.git
-    cd hangman-python
-    ```
-
-2. (Optional) Create and activate a virtual environment:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    cd Hangman-Repo
+    cd Hangman Program
     ```
 
 3. No external dependencies are required for the basic version.
